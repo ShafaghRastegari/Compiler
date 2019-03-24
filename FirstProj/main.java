@@ -17,6 +17,7 @@ public class main {
 
         //System.out.print(data);
            // my.lexerAnalyzer(data);
+
             my.lexerAnalyzer("@if  @123.545 2.  . / @   .565 ( ( ( ) ) ) ( ( ( . . . . a= == == ==  * ** / // /\n \n \n ) ( ., ;");
             System.out.println();
 
